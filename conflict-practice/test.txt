@@ -1,0 +1,2 @@
+This is my conflict-1 branch.
+This is my conflict-2 branch.
