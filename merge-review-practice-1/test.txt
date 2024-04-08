@@ -1,1 +1,2 @@
-Hi, My ticket is reopened and now my task is to read about the difference between merge and rebase.
+My task is understand merge command.
+My task is to perform merge command.
