@@ -1,1 +1,2 @@
 My task is understand merge command.
+My task is to perform merge command.
